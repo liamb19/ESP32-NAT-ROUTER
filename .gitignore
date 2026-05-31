@@ -1,0 +1,11 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Arduino / Build artifacts
+.vscode/
+build/
